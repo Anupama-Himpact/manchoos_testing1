@@ -1,0 +1,84 @@
+{
+  "manchoos": {
+    "baseUrl": "https://rm---qa.web.app/login"
+  },
+  "credentials": {
+    "userName": "anu@123",
+    "passWord": "Anupama@123"
+  },
+  "results": {
+    "result1": "www.helloselenium.com"
+  },
+"valet" :{
+  "sectionName" : "out door",
+  "sectionCode" :"o9"
+},
+"Admin":{
+  "phoneNumber1" :"9886846992",
+  "phoneNumber2":"7894561235",
+  "emailid":"anupamabhari33@gmail.com",
+  "emailid2":"geetha@gmail.com",
+  "gstNumber":"DGHHG7647346",
+  "pdf":"C:\\Users\\91990\\Desktop\\documents\\sample.pdf",
+  "vatNumber":"GHHG677585785",
+  "panNumber":"JHJ98980909",
+  "fssiNumber":"JHJ98457843"
+},
+  "users": {
+    "firstName": "demo",
+    "lastName" : "user",
+    "email" : "demouser@gmail.com",
+    "Address" : "No 123 4ths street NA",
+    "State" : "Karnataka",
+    "zipCode" : "560056"
+  },
+  "email":{
+    "username":"jayanth@123",
+    "password":"jayanth@123",
+    "host":"geetha@gmail.com",
+    "PortNumber":"9857954",
+    "fromEmail":"jayanth@gmail.com",
+    "updateUsername":"anupama@123",
+    "updatepassword":"anu@123",
+    "updatehost":"asha@gmail.com"
+  },
+  "Accountdetails":{
+    "accountNumber":"12345678",
+    "conformAccountNumber":"12345678",
+    "ifscNumber":"ICIC0000938",
+    "accountName":"Anupama",
+    "newActNumber":"1234567",
+    "newCofmAcTNub":"1234567",
+    "newIfscNumber":"ICIC0000938",
+    "newAccountName":"Anupama"
+  },
+  "gallaryImg":{
+    "image":"C:\\Users\\91990\\Desktop\\documents\\download.jpg",
+    "imagename":"hotel",
+    "image2":"C:\\Users\\91990\\Desktop\\documents\\download.jpg",
+    "imagename2":"masalaDosa"
+  },
+  "menuType":{
+    "enterMenuType":"biriyanii",
+    "editName":"machorian",
+    "enterCusineType":"jappanise",
+    "reEnterCusineType":"Spanish",
+    "enterFoodType":"piza",
+    "reEnterFoodType":"small",
+    "enterSubfoodtype":"veg biryani",
+    "reenterSubfoodtype":"tandori"
+  },
+ "menu":{
+   "itemName":"xyz",
+   "discription":"its a very good product",
+   "uniqueCode":"23",
+   "price":"878",
+   "discount":"20",
+   "item2":"kjhjk",
+   "discription1":"its a very good product in india",
+   "uniqueCode1":"29",
+   "price1":"87",
+   "discount1":"27",
+   "uploadProfilePic":"C:\\Users\\91990\\Desktop\\documents\\download.jpg"
+ }
+}
